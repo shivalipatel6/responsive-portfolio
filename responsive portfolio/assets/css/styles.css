@@ -15,7 +15,16 @@
     --input-color:hsl((var(--hue-color)),70%,96%);
     --body-color:hsl((var(--hue-color)),60%,99%);
     --container-color: #FFF;
+/* ========================= Font and typography=======================*/
+--body-font: 'Poppins', sans-serif;
+/* .5rem = 8px, 1 rem = 16px, 1.5 = 24px ... */
+--big-font-size: 2 rem;
+--h1-font-size: 1.5 rem;
+--h2-font-size: 1.25 rem;
+--h3-font-size: 1.125 rem;
+--normal-font-size: .938rem;
+--small-font-size: .813rem;
+--smaller-font-size: .75 rem;
 
 
-    
 }
